@@ -1,0 +1,22 @@
+﻿  CategoryType.cpp
+  CertificateDiscount.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\CertificateDiscount.cpp(6,8): warning C4804: '>': unsafe use of type 'bool' in operation
+  CheckInt.cpp
+  DiscountBase.cpp
+  PaidUser.cpp
+  PercentDiscount.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\PercentDiscount.cpp(6,8): warning C4804: '>': unsafe use of type 'bool' in operation
+  PersonNode.cpp
+  Post.cpp
+  Product.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\Product.cpp(6,13): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\Product.cpp(33,13): warning C4804: '<': unsafe use of type 'bool' in operation
+  Source.cpp
+  StudentNode.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\StudentNode.cpp(27,9): warning C4804: '>': unsafe use of type 'bool' in operation
+  TeacherNode.cpp
+  User.cpp
+  Generating Code...
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\CheckInt.cpp(26): warning C4715: 'CheckInt': not all control paths return a value
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\LAB5\CheckInt.cpp(67): warning C4715: 'CheckDouble': not all control paths return a value
+  LAB5.vcxproj -> D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB5\x64\Debug\LAB5.exe

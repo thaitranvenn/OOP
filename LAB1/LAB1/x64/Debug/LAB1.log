@@ -1,0 +1,5 @@
+﻿  Function.cpp
+  Source.cpp
+  Generating Code...
+D:\OOP_CPP\LAB1\LAB1\Function.cpp(32): warning C4715: 'CheckInt': not all control paths return a value
+  LAB1.vcxproj -> D:\OOP_CPP\LAB1\x64\Debug\LAB1.exe

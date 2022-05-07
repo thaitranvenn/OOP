@@ -1,0 +1,26 @@
+﻿  CheckInt.cpp
+  CircleNode.cpp
+  FlightNode.cpp
+  functions.cpp
+  MovieNode.cpp
+  MovieNodeWithGenre.cpp
+  RectangleNode.cpp
+  Source.cpp
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\OOP_CPP\LAB2\Source.cpp(256,13): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  TimeNode.cpp
+  Generating Code...
+D:\OOP_CPP\LAB2\functions.cpp(189): warning C4715: 'ReadColor': not all control paths return a value
+D:\OOP_CPP\LAB2\CheckInt.cpp(29): warning C4715: 'CheckInt': not all control paths return a value
+D:\OOP_CPP\LAB2\CheckInt.cpp(68): warning C4715: 'CheckDouble': not all control paths return a value
+  LAB2.vcxproj -> D:\OOP_CPP\LAB1\x64\Debug\LAB2.exe

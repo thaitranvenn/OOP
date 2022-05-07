@@ -1,0 +1,12 @@
+﻿  GeometricProgram.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\LAB4\Collision.h(11,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+  PointNode.cpp
+  RectangleNode.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\LAB4\RectangleNode.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  RingNode.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\LAB4\DoubleValidator.h(9,2): warning C4091: 'static ': ignored on left of 'DoubleValidator' when no variable is declared
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\LAB4\Collision.h(11,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+  Source.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\LAB4\Collision.h(11,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+  Generating Code...
+  LAB4.vcxproj -> D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4\x64\Debug\LAB4.exe

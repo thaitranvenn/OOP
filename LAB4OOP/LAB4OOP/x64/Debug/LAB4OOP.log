@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4OOP\LAB4OOP\CollisionManager.h(9,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4OOP\LAB4OOP\CheckInput.h(8,2): warning C4091: 'static ': ignored on left of 'CheckInput' when no variable is declared
+  LAB4OOP.vcxproj -> D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\LAB4OOP\x64\Debug\LAB4OOP.exe
